@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Divya-Prabhakar
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning web devlopment
-- 💞️ I’m looking to collaborate on some projects based html,css and react
+- 🌱 I’m currently learning Backend devlopment
+- 💞️ I’m looking to collaborate on some projects based html,css , Javascript,mongoDB, node.js
 - 📫 How to reach my email id divyaprabhakar2952@gmail.com
 
 
